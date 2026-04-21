@@ -1,0 +1,15 @@
+{
+  "claim_generator": "Standard of Truth Demo",
+  "format": "video/mp4",
+  "assertions": [
+    {
+      "label": "stds.demo",
+      "data": {
+        "note": "Test C2PA signing with user key"
+      }
+    }
+  ],
+  "signature_info": {
+    "alg": "es256"
+  }
+}

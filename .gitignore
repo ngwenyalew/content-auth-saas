@@ -1,0 +1,8 @@
+*.zip
+*.exe
+ffmpeg-*/
+Git-*/
+__pycache__/
+uploads/
+signed/
+archive/
